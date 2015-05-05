@@ -1,0 +1,7 @@
+C:\Users\Mounir.NOURISAD\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\classes\debug
+C:\Users\Mounir.NOURISAD\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-a5013626e7448ce17a36ed863f90fc928a89856b.jar
+C:\Users\Mounir.NOURISAD\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-ac73ff153cff077ce6673b31fab615c8c910c873.jar
+C:\Users\Mounir.NOURISAD\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes-475719e898565276173cdd166f879ef94bef3556.jar
+C:\Users\Mounir.NOURISAD\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes-11d46394b6147f84751dea2b98cac359f0e92050.jar
+C:\Users\Mounir.NOURISAD\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-118317614b838b09acffcc3b7b92c490af4bb6ae.jar
+C:\Users\Mounir.NOURISAD\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes-956ae16c66e276ac6809eb61c5eee5aaf63647c7.jar
